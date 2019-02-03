@@ -12,7 +12,7 @@ class App extends Component {
             <div className="App" style={{ backgroundColor }}>
                 <h1>This app is gonna be hella so cool DAWG, you have no IDEA.</h1>
                 <button onClick={() => this.props.setRandomBgColor()}>
-                    Click Me!
+                    Click Me?
                 </button>
             </div>
         );
